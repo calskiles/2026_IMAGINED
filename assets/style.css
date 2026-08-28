@@ -1,0 +1,119 @@
+/* === Scoped styling only for the hub-location tab === */
+#hub-location-container {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    color: #222;
+    background-color: #f9f9f9;
+    line-height: 1.5;
+}
+
+/* Headings inside hub tab */
+#hub-location-container h1,
+#hub-location-container h2,
+#hub-location-container h3,
+#hub-location-container h4,
+#hub-location-container h5,
+#hub-location-container h6 {
+    /*font-weight: bold; */
+    color: #1b263b;
+}
+
+/* General text elements (covers most missing cases) */
+#hub-location-container p,
+#hub-location-container div,
+#hub-location-container span,
+#hub-location-container li,
+#hub-location-container a,
+#hub-location-container strong,
+#hub-location-container em,
+#hub-location-container .control-label,
+#hub-location-container .form-text,
+#hub-location-container .dbc {
+    font-size: 20px !important;
+    color: #222;
+}
+
+/* Labels */
+#hub-location-container label {
+    font-size: 20px !important;
+    font-weight: 600;
+}
+
+/* Dropdowns */
+#hub-location-container .Select-control,
+#hub-location-container .Select-menu-outer,
+#hub-location-container .Select-value {
+    font-size: 20px !important;
+}
+
+/* Radio / Checkbox */
+#hub-location-container input[type="radio"] + span,
+#hub-location-container input[type="checkbox"] + span {
+    font-size: 18px !important;
+}
+
+/* Buttons */
+#hub-location-container button,
+#hub-location-container .btn {
+    font-size: 20px !important;
+    font-weight: 600;
+}
+
+/* Sliders */
+#hub-location-container .rc-slider-mark-text {
+    font-size: 18px !important;
+}
+
+/* === Plotly Graphs (Scoped) === */
+#hub-location-container .js-plotly-plot .plotly .main-svg {
+    font-family: "Arial", sans-serif;
+}
+
+/* Axis ticks */
+#hub-location-container .js-plotly-plot .xtick text,
+#hub-location-container .js-plotly-plot .ytick text {
+    font-size: 14px !important;
+}
+
+/* Axis titles */
+#hub-location-container .js-plotly-plot .g-xtitle text,
+#hub-location-container .js-plotly-plot .g-ytitle text {
+    font-size: 20px !important;
+    /*font-weight: bold; */
+}
+
+/* Legends */
+#hub-location-container .js-plotly-plot .legend text {
+    font-size: 14px !important;
+}
+
+/* Graph titles */
+#hub-location-container .js-plotly-plot .gtitle text {
+    font-size: 22px !important;
+    /*font-weight: bold; */
+}
+
+/* Hover tooltips */
+#hub-location-container .js-plotly-plot .hovertext text {
+    font-size: 24x !important;
+}
+
+/* Dash datatable support (if used) */
+#hub-location-container .dash-table-container,
+#hub-location-container .dash-table-container td,
+#hub-location-container .dash-table-container th {
+    font-size: 18px !important;
+}
+
+/* Dropdown placeholder and selected value */
+#hub-location-container .Select-placeholder,
+#hub-location-container .Select-value-label {
+    font-size: 22px !important;
+}
+
+/* Bootstrap tooltips, alerts, etc. */
+#hub-location-container .tooltip-inner,
+#hub-location-container .alert,
+#hub-location-container .card-body {
+    font-size: 18px !important;
+}

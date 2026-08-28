@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20250204</CreaDate>
+		<CreaTime>03255500</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">rail_yards_2025_01</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">-156.689757</westBL>
+					<eastBL Sync="TRUE">-59.927234</eastBL>
+					<southBL Sync="TRUE">14.672256</southBL>
+					<northBL Sync="TRUE">64.926143</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+			</itemProps>
+			<coordRef>
+				<type Sync="TRUE">Projected</type>
+				<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+				<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+				<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.2.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;WGS_1984_Web_Mercator_Auxiliary_Sphere&amp;quot;,GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Mercator_Auxiliary_Sphere&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,0.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,0.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,0.0],PARAMETER[&amp;quot;Auxiliary_Sphere_Type&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,3857]]&lt;/WKT&gt;&lt;XOrigin&gt;-20037700&lt;/XOrigin&gt;&lt;YOrigin&gt;-30241100&lt;/YOrigin&gt;&lt;XYScale&gt;10000&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102100&lt;/WKID&gt;&lt;LatestWKID&gt;3857&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+				<projcsn Sync="TRUE">WGS_1984_Web_Mercator_Auxiliary_Sphere</projcsn>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20250203</SyncDate>
+		<SyncTime>11362900</SyncTime>
+		<ModDate>20250203</ModDate>
+		<ModTime>11362900</ModTime>
+	</Esri>
+	<mdChar>
+		<CharSetCd value="004">
+		</CharSetCd>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Federal Railroad Administration (FRA) GIS Office</rpIndName>
+		<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+		<rpPosName>GIS Program Manager</rpPosName>
+		<rpCntInfo>
+			<cntAddress addressType="both">
+				<delPoint>1200 New Jersey Ave. SE</delPoint>
+				<city>Washington</city>
+				<adminArea>DC</adminArea>
+				<postCode>20590</postCode>
+				<country>United States</country>
+				<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007">
+			</RoleCd>
+		</role>
+	</mdContact>
+	<mdDateSt>2025-02-03</mdDateSt>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Open Data Catalog</formatName>
+				<formatVer>1.0</formatVer>
+				<formatSpec>download</formatSpec>
+				<formatInfo>An ESRI Geodatabase, ESRI shapefile, or spreadsheet.</formatInfo>
+				<fileDecmTech>ZIP</fileDecmTech>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1522281</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distributor>
+			<distorCont>
+				<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+				<rpPosName>NTAD Program Manager</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>none</voiceNum>
+					</cntPhone>
+					<cntAddress addressType="both">
+						<delPoint>1200 New Jersey Ave. SE</delPoint>
+						<city>Washington</city>
+						<adminArea>DC</adminArea>
+						<postCode>20590</postCode>
+						<country>US</country>
+						<eMailAdd>ntad@dot.gov</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005">
+					</RoleCd>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<resFees>None. No fees are applicable for obtaining the dataset.</resFees>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Esri Feature Service</formatName>
+				<formatVer>11.1</formatVer>
+				<formatSpec>https://developers.arcgis.com/rest/services-reference/online/hosted-feature-service.htm</formatSpec>
+				<formatInfo>ArcGIS Online Hosted Esri Feature Service for visualizing geospatial information</formatInfo>
+			</distorFormat>
+			<distorTran>
+				<onLineSrc>
+					<linkage>https://doi.org/10.21949/1528012</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+	</distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Rail Yards</resTitle>
+			<date>
+				<createDate>2024-07-25</createDate>
+				<lastUpdateDate>2025-01-29</lastUpdateDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+				<role>
+					<RoleCd value="006">
+					</RoleCd>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="">
+				</PresFormCd>
+			</presForm>
+			<presForm>
+				<fgdcGeoform>vector digital data</fgdcGeoform>
+			</presForm>
+			<collTitle>National Transportation Atlas Database</collTitle>
+		</idCitation>
+		<idAbs>The North American Rail Network (NARN) Rail Yards dataset was created in 2024 and was updated on January 29, 2025 from the Federal Railroad Administration (FRA) and is part of the U.S. Department of Transportation (USDOT)/Bureau of Transportation Statistics (BTS) National Transportation Atlas Database (NTAD). This Rail Yards layer represents and is derived from where the North American Rail Network (NARN) Lines layer as aggregated by type of track designated as yards.  A rail yard is an area consisting of a network of tracks where trains are stored and/or maintained.The NARN Rail Lines dataset is a database that provides ownership, trackage rights, type, passenger, STRACNET, and geographic reference for North America's railway system at 1:24,000 or better within the United States. The data set covers all 50 States, the District of Columbia, Mexico, and Canada. A data dictionary, or other source of attribute information, is accessible at https://doi.org/10.21949/1528005</idAbs>
+		<idPurp>North American Rail Network (NARN) Yards can be used within the public, the federal government, rail industry, state DOTs, and academia for routing, mapping and analysis.</idPurp>
+		<idCredit>Acknowledgment of the Federal Railroad Administration (FRA) and the Bureau of Transportation Statistics (BTS) [distributor].</idCredit>
+		<idStatus>
+			<ProgCd value="004">
+			</ProgCd>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Federal Railroad Administration (FRA) GIS Office</rpIndName>
+			<rpOrgName>Federal Railroad Administration (FRA)</rpOrgName>
+			<rpPosName>GIS Program Manager</rpPosName>
+			<rpCntInfo>
+				<cntAddress addressType="both">
+					<delPoint>1200 New Jersey Ave. SE</delPoint>
+					<city>Washington</city>
+					<adminArea>DC</adminArea>
+					<postCode>20590</postCode>
+					<country>United States</country>
+					<eMailAdd>FRAGIS@dot.gov</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007">
+				</RoleCd>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+		<placeKeys>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>North American</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>transportation</keyword>
+			<thesaName>
+				<resTitle>ISO 19115 Topic Category</resTitle>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>line</keyword>
+			<keyword>linear Rail</keyword>
+			<keyword>NARN</keyword>
+			<keyword>Network</keyword>
+			<keyword>Yards</keyword>
+			<keyword>Lines</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>transportation</keyword>
+			<keyword>USA</keyword>
+			<keyword>National</keyword>
+			<keyword>North American</keyword>
+			<keyword>NTAD</keyword>
+			<keyword>National Transportation Atlas Database</keyword>
+			<keyword>Transportation</keyword>
+			<keyword>Atlas</keyword>
+			<keyword>Database</keyword>
+			<keyword>vector</keyword>
+			<keyword>line</keyword>
+			<keyword>linear Rail</keyword>
+			<keyword>NARN</keyword>
+			<keyword>Network</keyword>
+			<keyword>Yards</keyword>
+			<keyword>Lines</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<Consts>
+				<useLimit>This NTAD dataset is a work of the United States government as defined in 17 U.S.C. § 101 and as such are not protected by any U.S. copyrights. This work is available for unrestricted public use.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="">
+					</RestrictCd>
+				</accessConsts>
+			</LegConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSName>
+				<resTitle>National Transportation Atlas Database</resTitle>
+				<date>
+					<pubDate>2025-01-29</pubDate>
+				</date>
+				<citRespParty>
+					<rpOrgName>Bureau of Transportation Statistics</rpOrgName>
+					<role>
+						<RoleCd value="006">
+						</RoleCd>
+					</role>
+				</citRespParty>
+			</aggrDSName>
+			<assocType>
+				<AscTypeCd value="002">
+				</AscTypeCd>
+			</assocType>
+		</aggrInfo>
+		<tpCat>
+			<TopicCatCd value="018">
+			</TopicCatCd>
+		</tpCat>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-149.88995</westBL>
+					<eastBL>-67.404983000000001</eastBL>
+					<northBL>64.851949000000005</northBL>
+					<southBL>25.693017999999999</southBL>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2024-07-17</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+		</dataExt>
+		<envirDesc>Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+	</dataIdInfo>
+	<mdMaint>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009">
+				</MaintFreqCd>
+			</maintFreq>
+		</resMaint>
+	</mdMaint>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005">
+				</ScopeCd>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>The Rail Yards dataset was created using the North American Rail Network (NARN) Lines. The NARN Lines were filtered using the ArcGIS Pro Select Layer By Attribute tool to select records that were populated with a YARDNAME (SQL Expression: "NET" IS 'Yard Tracks' OR "YARDNAME" IS NOT NULL). The filtered selection was then dissolved by "RROWNER1", "YARDNAME", and "STCNTYFIPS” using the ArcGIS Pro Dissolve tool to create a multipart output with dissolved lines. The result is a dataset that represents one Rail Yard per record that is unique by "RROWNER1", "YARDNAME", and "STCNTYFIPS”.</stepDesc>
+			</prcStep>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<geometObjs>
+				<geoObjTyp>
+					<GeoObjTypCd value="003">
+					</GeoObjTypCd>
+				</geoObjTyp>
+				<geoObjCnt>2677</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>This Rail Yards layer represents and is derived from where the North American Rail Network (NARN) Lines layer as aggregated by type of track designated as yards.  A rail yard is an area consisting of a network of tracks where trains are stored and/or maintained.The NARN Rail Lines dataset is a database that provides ownership, trackage rights, type, passenger, STRACNET, and geographic reference for North America's railway system at 1:24,000 or better within the United States. The data set covers all 50 States, the District of Columbia, Mexico, and Canada.</eaover>
+			<eadetcit>https://doi.org/10.21949/1528005</eadetcit>
+		</overview>
+	</eainfo>
+</metadata>
